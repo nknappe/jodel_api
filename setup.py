@@ -5,12 +5,12 @@ with open(os.path.join(os.path.dirname(__file__), 'README.rst')) as f:
     long_description = f.read()
 
 setup(name='jodel_api',
-      version='1.2.13',
+      version='1.2.84',
       description='Unoffical Python Interface to the Jodel API',
       long_description=long_description,
-      url='https://github.com/nborrmann/jodel_api',
-      author='Nils Borrmann',
-      author_email='n.borrmann@googlemail.com',
+      url='https://github.com/nknappe/jodel_api',
+      author='Penis',
+      author_email='nope@penis.com',
       license='MIT',
       classifiers=[
         'Development Status :: 5 - Production/Stable',
